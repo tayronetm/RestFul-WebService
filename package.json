@@ -1,0 +1,22 @@
+{
+  "name": "wservice",
+  "version": "0.0.1",
+  "description": "App teste resful",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5",
+    "nodemon": "^1.11.0",
+    "validator": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wservice"
+  ],
+  "author": "tayrone",
+  "license": "ISC"
+}
